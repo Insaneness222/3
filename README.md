@@ -9,8 +9,7 @@
 
 ### 👥 Team Members
 | 이지훈 | 이정민 | 유태경 | 양태현 | 최수안 |
-| :ESTJ: | :INFJ: | :ISFJ: | :INTP: | :INTP: |
-| <img src="https://github.com/identicons/user1.png" width="80"> | <img src="https://github.com/identicons/user2.png" width="80"> | <img src="https://github.com/identicons/user3.png" width="80"> | <img src="https://github.com/identicons/user4.png" width="80"> | <img src="https://github.com/identicons/user5.png" width="80"> |
+
 | **ESTJ** | **INFJ** | **ISFJ** | **INTP** | **INTP** |
 | [📧 Email](mailto:ljh7190@gmail.com) | [📧 Email](mailto:ljm3516@hanyang.ac.kr) | [📧 Email](mailto:tony1929@hanmail.net) | [📧 Email](mailto:didxogus@hanyang.ac.kr) | [📧 Email](mailto:nero180319@gmail.com) |
 
