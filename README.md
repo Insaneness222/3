@@ -13,7 +13,7 @@
 | **ESTJ** | **INFJ** | **ISFJ** | **INTP** | **INTP** |
 | [📧 Email](mailto:ljh7190@gmail.com) | [📧 Email](mailto:ljm3516@hanyang.ac.kr) | [📧 Email](mailto:tony1929@hanmail.net) | [📧 Email](mailto:didxogus@hanyang.ac.kr) | [📧 Email](mailto:nero180319@gmail.com) |
 
-> 💡 *MBTI는 예시입니다. 각 멤버의 실제 MBTI로 수정하여 개성을 표현해 보세요!*
+> 💡
 
 ---
 
