@@ -11,7 +11,7 @@
 | 이지훈 | 이정민 | 유태경 | 양태현 | 최수안 |
 | :ESTJ: | :INFJ: | :ISFJ: | :INTP: | :INTP: |
 | <img src="https://github.com/identicons/user1.png" width="80"> | <img src="https://github.com/identicons/user2.png" width="80"> | <img src="https://github.com/identicons/user3.png" width="80"> | <img src="https://github.com/identicons/user4.png" width="80"> | <img src="https://github.com/identicons/user5.png" width="80"> |
-| **ENTP** | **ISFP** | **INFJ** | **ESTJ** | **ENFP** |
+| **ESTJ** | **INFJ** | **ISFJ** | **INTP** | **INTP** |
 | [📧 Email](mailto:ljh7190@gmail.com) | [📧 Email](mailto:ljm3516@hanyang.ac.kr) | [📧 Email](mailto:tony1929@hanmail.net) | [📧 Email](mailto:didxogus@hanyang.ac.kr) | [📧 Email](mailto:nero180319@gmail.com) |
 
 > 💡 *MBTI는 예시입니다. 각 멤버의 실제 MBTI로 수정하여 개성을 표현해 보세요!*
